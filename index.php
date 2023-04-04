@@ -1,0 +1,1 @@
+<?php //Prevent Direct access to folder ?>
